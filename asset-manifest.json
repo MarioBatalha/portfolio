@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.789467f3.chunk.css",
+    "main.js": "/static/js/main.0f84339b.chunk.js",
+    "main.js.map": "/static/js/main.0f84339b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfa91111.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfa91111.js.map",
+    "static/js/2.e7224222.chunk.js": "/static/js/2.e7224222.chunk.js",
+    "static/js/2.e7224222.chunk.js.map": "/static/js/2.e7224222.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef1dab1ca047b4d3b3f7ba5abe068996.js": "/precache-manifest.ef1dab1ca047b4d3b3f7ba5abe068996.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.789467f3.chunk.css.map": "/static/css/main.789467f3.chunk.css.map",
+    "static/js/2.e7224222.chunk.js.LICENSE.txt": "/static/js/2.e7224222.chunk.js.LICENSE.txt",
+    "static/media/QR.png": "/static/media/QR.7d15779c.png",
+    "static/media/askme.png": "/static/media/askme.be1e1dc7.png",
+    "static/media/style.scss": "/static/media/background-ilustration.31d24c36.svg",
+    "static/media/be-the-hero.png": "/static/media/be-the-hero.d33119c9.png",
+    "static/media/cocktails.png": "/static/media/cocktails.de9776f7.png",
+    "static/media/color-generate.png": "/static/media/color-generate.a5bace0b.png",
+    "static/media/contentribe.png": "/static/media/contentribe.0023f9af.png",
+    "static/media/food.png": "/static/media/food.15d37c7e.png",
+    "static/media/game-play.png": "/static/media/game-play.9169fbf3.png",
+    "static/media/happy.png": "/static/media/happy.276c3de7.png",
+    "static/media/me.png": "/static/media/me.a93d6325.png",
+    "static/media/proffy.png": "/static/media/proffy.e3a2f21c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa91111.js",
+    "static/js/2.e7224222.chunk.js",
+    "static/css/main.789467f3.chunk.css",
+    "static/js/main.0f84339b.chunk.js"
+  ]
+}
